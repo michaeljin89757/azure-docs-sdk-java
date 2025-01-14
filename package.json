@@ -5,7 +5,7 @@
       {
         "packageArtifactId": "com.azure.resourcemanager",
         "packageGroupId": "com.azure",
-        "packageVersion": "2.43.0",
+        "packageVersion": "2.39.0",
         "packageDownloadUrl": "https://repo1.maven.org/maven2"
       }
     ],
