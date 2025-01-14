@@ -3,60 +3,11 @@
     "output_path": "docs-ref-autogen",
     "packages": [
       {
-        "packageArtifactId": "azure-storage-common",
+        "packageArtifactId": "com.azure.resourcemanager",
         "packageGroupId": "com.azure",
-        "packageVersion": "12.28.0",
-        "packageDownloadUrl": "https://repo1.maven.org/maven2"
-      },
-      {
-        "packageArtifactId": "azure-storage-blob",
-        "packageGroupId": "com.azure",
-        "packageVersion": "12.29.0",
-        "packageDownloadUrl": "https://repo1.maven.org/maven2"
-      },
-      {
-        "packageArtifactId": "azure-storage-blob-batch",
-        "packageGroupId": "com.azure",
-        "packageVersion": "12.25.0",
-        "packageDownloadUrl": "https://repo1.maven.org/maven2"
-      },
-      {
-        "packageArtifactId": "azure-storage-blob-changefeed",
-        "packageGroupId": "com.azure",
-        "packageVersion": "12.0.0-beta.27",
-        "packageDownloadUrl": "https://repo1.maven.org/maven2"
-      },
-      {
-        "packageArtifactId": "azure-storage-blob-cryptography",
-        "packageGroupId": "com.azure",
-        "packageVersion": "12.28.0",
-        "packageDownloadUrl": "https://repo1.maven.org/maven2"
-      },
-      {
-        "packageArtifactId": "azure-storage-blob-nio",
-        "packageGroupId": "com.azure",
-        "packageVersion": "12.0.0-beta.28",
-        "packageDownloadUrl": "https://repo1.maven.org/maven2"
-      },
-      {
-        "packageArtifactId": "azure-storage-file-share",
-        "packageGroupId": "com.azure",
-        "packageVersion": "12.25.1",
-        "packageDownloadUrl": "https://repo1.maven.org/maven2"
-      },
-      {
-        "packageArtifactId": "azure-storage-file-datalake",
-        "packageGroupId": "com.azure",
-        "packageVersion": "12.22.0",
-        "packageDownloadUrl": "https://repo1.maven.org/maven2"
-      },
-      {
-        "packageArtifactId": "azure-storage-queue",
-        "packageGroupId": "com.azure",
-        "packageVersion": "12.24.0",
+        "packageVersion": "2.46.0",
         "packageDownloadUrl": "https://repo1.maven.org/maven2"
       }
-      
     ],
     "language": "java"
   }
